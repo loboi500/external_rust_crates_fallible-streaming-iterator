@@ -1,22 +1,3 @@
-# fallible-streaming-iterator
-[![CircleCI](https://circleci.com/gh/sfackler/fallible-streaming-iterator.svg?style=shield)](https://circleci.com/gh/sfackler/fallible-streaming-iterator)
-
-[Documentation](https://docs.rs/fallible-streaming-iterator)
-
-Fallible, streaming iteration
-
-## License
-
-Licensed under either of
-
- * Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
- * MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
-
-at your option.
-
-### Contribution
-
-Unless you explicitly state otherwise, any contribution intentionally
-submitted for inclusion in the work by you, as defined in the Apache-2.0
-license, shall be dual licensed as above, without any additional terms or
-conditions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73f5daabf0443f5253c00dfc3b1d2f9cb057f12b0160de27b95da7312df8aa34
+size 777

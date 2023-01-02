@@ -1,19 +1,3 @@
-name: "fallible-streaming-iterator"
-description: "Fallible streaming iteration"
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://crates.io/crates/fallible-streaming-iterator"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://static.crates.io/crates/fallible-streaming-iterator/fallible-streaming-iterator-0.1.9.crate"
-  }
-  version: "0.1.9"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2020
-    month: 6
-    day: 11
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2b6c6093b605c7d2718f46c39fe4542fdb14d6ec1e0a7c0000cd9f06fd58d6c
+size 444
